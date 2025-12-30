@@ -1,0 +1,113 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #F8F7F3;
+}
+header {
+  background-image: url(banner.png);
+  padding: 5px; 
+  border-radius: 5px;  
+}
+.pala {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: floralwhite;
+    margin-right: 20px;
+}
+.about {
+  justify-self: center;
+  padding: 200px;
+}
+.gitar {
+  position: absolute;
+  right: -1px;
+  bottom: 1px;
+}
+.about h2 {
+  text-align: center;
+}
+.ig {
+ margin: 0% auto;
+}
+.ayem {
+  border-radius: 100px;
+}
+.bagiandua {
+  display: flex;
+  gap: 20px;
+}
+.bagiandua h3{
+  font-size: 30px;
+  margin: 0%;
+}
+.bagiandua h4 {
+  margin-bottom: 0%;
+}
+.bagiandua p {
+  margin: 0%;
+}
+.itu {
+  display: flex;
+  gap: 20px;
+  padding: 0%;
+}
+.bagiantiga {
+  justify-self: center;
+  position: relative;
+}
+.stikertu {
+  position: absolute;
+  left: -250px;
+  bottom: -250px;
+}
+.telpon {
+  position: absolute;
+  z-index: 1;
+  top: 498px;
+  left: -100px;
+}
+.bungkus {
+  background-color: #5A574F;
+  border-radius: 30px;
+  width: 100%;
+  max-width: 400px;
+  color: #F8F7F3;
+  padding: 32px 40px;
+  margin: 40px auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.589);
+  font-size: 25px;
+  z-index: 2;
+  position: relative;
+}
+.tengah {
+  text-align: center;
+}
+.yaitu {
+  padding: 10px;
+}
+.bagianempat {
+  position: relative;
+}
+.kontak {
+  justify-self: center;
+  margin: 230px 0px 0px 200px;
+  position: relative;
+}
+.kontak a {
+  text-decoration: none;
+  color: inherit;
+}
+.cat {
+  position: absolute;
+  left: -10px;
+}
+.everyone {
+  position: absolute;
+  bottom: -220px;
+  left: 1400px;
+}
