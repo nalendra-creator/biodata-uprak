@@ -97,6 +97,7 @@ nav a{
   justify-self: center;
   margin: 230px 0px 0px 200px;
   position: relative;
+  cursor: pointer;
 }
 .kontak a {
   text-decoration: none;
@@ -111,3 +112,4 @@ nav a{
   bottom: -220px;
   left: 1400px;
 }
+
