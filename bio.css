@@ -97,11 +97,16 @@ nav a{
   justify-self: center;
   margin: 230px 0px 0px 200px;
   position: relative;
-  cursor: pointer;
+  z-index: 5;
 }
-.kontak a {
+.call {
+  display: flex;
+  gap: 20px;
+}
+.call a {
   text-decoration: none;
   color: inherit;
+  cursor: pointer;
 }
 .cat {
   position: absolute;
@@ -112,4 +117,5 @@ nav a{
   bottom: -220px;
   left: 1400px;
 }
+
 
